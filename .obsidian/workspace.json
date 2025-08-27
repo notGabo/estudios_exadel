@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "e1405c3c11b2c187",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9f9be824d067b93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47e0dec4eab6e7a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudios Java/Estudios java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estudios java"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a539a5f8304eded",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8abb5e5186b54ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "657e31e76c2f3d5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d342991aba50d0d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "942b2f4bc73ac693",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8a0f69ea317ad5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ff4cad0573e0f8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5278aa5abe340638",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Estudios Java/2. Tipos de referencias, opcionales.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2. Tipos de referencias, opcionales"
+            }
+          },
+          {
+            "id": "23a032edd1fb13bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Estudios Java/2. Tipos de referencias, opcionales.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2. Tipos de referencias, opcionales"
+            }
+          },
+          {
+            "id": "8f326afe9e447cd1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b6958a938b561b8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Estudios Java/2. Tipos de referencias, opcionales.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2. Tipos de referencias, opcionales"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "47e0dec4eab6e7a0",
+  "lastOpenFiles": [
+    "Estudios Java/13. JVM Cargadores de clases, reflexión, JARs y Módulos, Memoria, Debugging (remoto), Propiedades JVM.md",
+    "Estudios Java/12. Utilidades JDK.md",
+    "Estudios Java/11. Reflexión.md",
+    "Estudios Java/10. Organización de ciclos.md",
+    "Estudios Java/9. Administración de ciclo de vida de objetos.md",
+    "Estudios Java/8. Manejo de errores y errores básicos.md",
+    "Estudios Java/7. Interfaces, interfaces predeterminadas.md",
+    "Estudios Java/6. Conversiones de tipos, encajamiento y desencajamiento.md",
+    "Estudios Java/5. Chars, strings, y trabajos con textos.md",
+    "Estudios Java/4. Métodos, parámetros y propiedades.md",
+    "Estudios Java/3. Constantes, estáticos, y Enums.md",
+    "Estudios Java/2. Tipos de referencias, opcionales.md",
+    "Estudios Java/1. Tipos de datos Fundamentales (Primivitos).md",
+    "Estudios Java/Estudios java.md",
+    "Untitled.md",
+    "Estudios Java",
+    "Estudios java/utilidades JDK.md",
+    "Estudios java/Tipos de datos primitivos, tipos de referencias, opcionales.md",
+    "Estudios java/Tipos de datos Fundamentales.md",
+    "Estudios java/JVM Cargadores de clases, reflexión, JARs y Módulos, Memoria, Debugging (remoto), Propiedades JVM.md",
+    "Estudios java/Untitled.canvas",
+    "Estudios java",
+    "Estudios java/reflexión.md",
+    "Estudios java/organización de ciclos.md",
+    "Estudios java/interfaces, interfaces predeterminadas.md",
+    "Estudios java/administración de ciclo de vida de objetos.md",
+    "Estudios java/manejo de errores y errores básicos.md",
+    "Estudios java/conversiones de tipos, encajamiento y desencajamiento.md",
+    "Estudios java/chars, strings, y trabajos con textos.md"
+  ]
+}
