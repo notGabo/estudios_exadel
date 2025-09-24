@@ -1,0 +1,38 @@
+Code/Estudios/target/
+Code/Estudios/!.mvn/wrapper/maven-wrapper.jar
+Code/Estudios/!**/src/main/**/target/
+Code/Estudios/!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+Code/Estudios/.idea/modules.xml
+Code/Estudios/.idea/jarRepositories.xml
+Code/Estudios/.idea/compiler.xml
+Code/Estudios/.idea/libraries/
+Code/Estudios/*.iws
+Code/Estudios/*.iml
+Code/Estudios/*.ipr
+
+### Eclipse ###
+Code/Estudios/.apt_generated
+Code/Estudios/.classpath
+Code/Estudios/.factorypath
+Code/Estudios/.project
+Code/Estudios/.settings
+Code/Estudios/.springBeans
+Code/Estudios/.sts4-cache
+
+### NetBeans ###
+Code/Estudios/nbproject/private/
+Code/Estudios/nbbuild/
+Code/Estudios/dist/
+Code/Estudios/nbdist/
+Code/Estudios/.nb-gradle/
+Code/Estudiosbuild/
+Code/Estudios!**/src/main/**/build/
+Code/Estudios/!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+Code/Estudios/.vscode/
+### Mac OS ###
+.DS_Store

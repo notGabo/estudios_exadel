@@ -1,5 +1,5 @@
 
-- [[1. Tipos de datos Fundamentales (Primivitos)]]
+- [[1. Tipos de datos Fundamentales (Primitivos)]]
 - [[2. Tipos de referencias, opcionales]]
 - [[3. Constantes, estáticos, y Enums]]
 - [[4. Métodos, parámetros y propiedades]]
