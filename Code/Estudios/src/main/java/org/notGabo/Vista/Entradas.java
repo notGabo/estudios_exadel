@@ -46,4 +46,14 @@ public class Entradas {
             scanner.close();
         }
     }
+
+    public void ValidarEnter(){
+        System.out.println("Presione Enter para continuar...");
+        while (true) {
+            String entrada = scanner.nextLine();
+            if (entrada.isEmpty()) {
+                break;
+            }
+        }
+    }
 }
